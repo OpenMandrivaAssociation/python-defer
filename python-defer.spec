@@ -4,7 +4,7 @@ Name:		python-%{module_name}
 Version:	1.0.2
 Release:	%mkrel 1
 
-Summary: 	Small framework for asynchrouns programming in Python.
+Summary: 	Small framework for asynchrouns programming in Python
 License: 	GPLv2
 Group:		Development/Python
 URL: 		http://launchpad.net/%{name}/trunk/%{version}/+download/%{module_name}-%{version}.tar.gz
