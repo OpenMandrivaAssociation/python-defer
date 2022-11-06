@@ -3,15 +3,13 @@
 Name:		python-%{module_name}
 Version:	1.0.4
 Release:	1
-
 Summary: 	Small framework for asynchrouns programming in Python
 License: 	GPLv2
 Group:		Development/Python
 URL: 		http://launchpad.net/%{name}/trunk/%{version}/+download/%{module_name}-%{version}.tar.gz
 Source0:	https://files.pythonhosted.org/packages/source/d/defer/defer-%{version}.tar.gz
-
 BuildArch:	noarch
-
+BuildRequires:	python%{pyver}dist(setuptools)
 
 %description
 The defer module provides an easy way to write asynchrouns Python
