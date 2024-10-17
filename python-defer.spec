@@ -6,7 +6,7 @@ Release:	1
 Summary: 	Small framework for asynchrouns programming in Python
 License: 	GPLv2
 Group:		Development/Python
-URL: 		http://launchpad.net/%{name}/trunk/%{version}/+download/%{module_name}-%{version}.tar.gz
+URL: 		https://launchpad.net/%{name}/trunk/%{version}/+download/%{module_name}-%{version}.tar.gz
 Source0:	https://files.pythonhosted.org/packages/source/d/defer/defer-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	python%{pyver}dist(setuptools)
