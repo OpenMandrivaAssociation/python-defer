@@ -2,7 +2,7 @@
 
 Name:		python-%{module_name}
 Version:	1.0.4
-Release:	1
+Release:	2
 Summary: 	Small framework for asynchrouns programming in Python
 License: 	GPLv2
 Group:		Development/Python
